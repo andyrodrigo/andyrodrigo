@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andyrodrigo&theme=python-dark&locale=pt-br)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyrodrigo&hide=css&theme=tokyonight)
+
 <!--
 **andyrodrigo/andyrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
